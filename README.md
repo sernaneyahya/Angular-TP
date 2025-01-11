@@ -11,8 +11,33 @@ Cette application Angular permet de gérer des produits via une interface conviv
 
 ### Démarrage de l'application
 
-<img src="C:\Users\asus\Desktop\ETUDES\2ACI%20INFO\DEV%20JAVA%20AVANCE\Angular-TP\screens\1.png"/>
+![](/screens/1.png)
 
+### Application
+
+1. **Page d'accueil** :
+
+   Cette capture démontre la page d'accueil.
+
+![](/screens/2.png)
+
+2. **Page des produits** :
+
+   Cette image montre la liste des produits enregistrés dans l'application.
+
+![](/screens/3.png)
+
+3. **Recherche d'un produit** :
+
+   Cette capture illustre l'interface de recherche, permettant à l'utilisateur de trouver un produit rapidement.
+
+![](/screens/4.png)
+
+4. **Suppression d'un produit** :
+
+   Cette image montre l'option de suppression d'un produit dans la liste. Ici, le produit **Mouse** a été supprimé.
+
+![](/screens/5.png)
 
 
 ## Auteur : 
